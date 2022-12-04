@@ -1,0 +1,3 @@
+In this file, you should describe your annotation categories and the annotation guidelines.
+An annotator should be able to perform the annotation task accurately by ONLY reading these guidelines without any other consultation.
+It is important to be very precise when describing how the annotation categories should be distinguished. It can help to provide examples.
